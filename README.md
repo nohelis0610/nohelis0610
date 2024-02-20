@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-- [Hello Word](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Documenting Data Analysis](https://github.com/nohelis0610/Documenting-Data-Analysis)
 
 <h2>📝 Certification:</h2>
 

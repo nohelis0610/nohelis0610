@@ -4,6 +4,7 @@
 
 - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 - [Documenting Data Analysis](https://github.com/nohelis0610/Documenting-Data-Analysis)
+- [Cybersecurity Course](https://github.com/nohelis0610/Cybersecurity-Course)
 
 <h2>📝 Certification:</h2>
 

@@ -8,7 +8,7 @@
 
 <h2>📝 Certification:</h2>
 
-- [Google Cybersecurity Professional](https://coursera.org/verify/professional-cert/R849F7ZD6YT)
+- [Google Cybersecurity Professional](https://www.coursera.org/account/accomplishments/professional-cert/R849F7ZD6YTM)
 
 
 <h2> 🤳 Connect with me:</h2>

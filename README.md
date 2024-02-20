@@ -7,7 +7,7 @@
 
 <h2>📝 Certification:</h2>
 
-- [Google Cybersecurity Professional](file:///C:/Users/kenne/OneDrive/Escritorio/CYBERSECURITY/CYBERSECURITY%20CERTIFICATES/Google%20Cybersecurity%20Professional%20Certificate.pdf)
+- [Google Cybersecurity Professional](https://coursera.org/verify/professional-cert/R849F7ZD6YT)
 
 
 <h2> 🤳 Connect with me:</h2>

@@ -3,16 +3,16 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-<h3> Data Analysis
+<b>Data Analysis</b>
 
   - [Documenting Data Analysis](https://github.com/nohelis0610/Documenting-Data-Analysis)
-  - [Filter Content with Linux](https://github.com/nohelis0610/Filter-Content/blob/main/README.md)
+  - [Filter Content with Linux](https://github.com/nohelis0610/Filter-Content)
 
-<h3> Python
+<b>Python</b>
 
   - [Updating a File through Python Algorithms](https://github.com/nohelis0610/Python-algorithm)
 
-<h3> Course
+<b>Course</b>
 
   - [Cybersecurity Course Overview](https://github.com/nohelis0610/Cybersecurity-Course)
 

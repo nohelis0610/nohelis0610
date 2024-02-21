@@ -16,6 +16,10 @@ I am a 24-year-old girl who has liked technology and computing since I was littl
 ![Static Bagde](https://img.shields.io/badge/PowerPoint-lightblue?style=flat-square&logo=Microsoft%20PowerPoint)
 ![Static Bagde](https://img.shields.io/badge/GoogleSheets-lightblue?style=flat-square&logo=GoogleSheets)
 
+<b>Languages</b>
+
+- English
+- Spanish
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>

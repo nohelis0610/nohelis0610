@@ -1,4 +1,10 @@
-<h1>Hi, I'm Nohelis! <br/><a href="https://github.com/nohelis0610">Programmer</a>, <a href="https://www.linkedin.com/in/nohelisfernandez/">Cybersecurity Professional</a>
+<h1> Data Analyst and Cybersecurity Professional </h1>
+
+# Hi, My name is Nohelis!
+I am a 24-year-old girl who has liked technology and computing since I was little. I have learned all these years, but 6 months ago I began to deepen my knowledge and took a professional online course with Google which I enjoyed a lot and I gained a lot of experience and learning about programming, data security, software, how to detect threat actors or malware among others.
+
+![-yq4buGOTh2kqmMYsCUqBg_aabe3189d6f249d4a743ba58b6bc56f1_S35G008](https://github.com/nohelis0610/nohelis0610/assets/159972745/77338e07-2325-4cbc-bd65-f198c006aedf)
+
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 

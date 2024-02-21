@@ -6,6 +6,7 @@
 <h3> Data Analysis
 
   - [Documenting Data Analysis](https://github.com/nohelis0610/Documenting-Data-Analysis)
+  - [Filter Content with Linux](https://github.com/nohelis0610/Filter-Content/blob/main/README.md)
 
 <h3> Python
 

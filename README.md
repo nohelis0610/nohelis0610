@@ -13,7 +13,7 @@
 
 <h3> Course
 
-  - [Cybersecurity Course](https://github.com/nohelis0610/Cybersecurity-Course)
+  - [Cybersecurity Overview](https://github.com/nohelis0610/Cybersecurity-Course)
 
 
 <h2>📝 Certification:</h2>

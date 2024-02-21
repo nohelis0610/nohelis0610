@@ -2,17 +2,18 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-<h3> Course
 
-  - [Cybersecurity Course](https://github.com/nohelis0610/Cybersecurity-Course)
-
-<h3> Projects
+<h3> Data Analysis
 
   - [Documenting Data Analysis](https://github.com/nohelis0610/Documenting-Data-Analysis)
 
 <h3> Python
 
   - [Updating a File through Python Algorithms](https://github.com/nohelis0610/Python-algorithm)
+
+<h3> Course
+
+  - [Cybersecurity Course](https://github.com/nohelis0610/Cybersecurity-Course)
 
 
 <h2>📝 Certification:</h2>
